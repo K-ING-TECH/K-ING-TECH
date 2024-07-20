@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kyle! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@K-ING-TECH/videos">YouTuber</a></h1>
+<h1>Hi, I'm Kyle! <br/> <a href="https://www.linkedin.com/in/kyle-ingri-82592831a/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@K-ING-TECH/videos">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -32,6 +32,6 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/@K-ING-TECH/videos
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/kyle-ingri-82592831a/
 
 
