@@ -8,7 +8,7 @@
   - [Various Group Policy Labs and Explanations](https://github.com/K-ING-TECH/Active_Directory_GPO_Labs/blob/main/README.md) 
 - <b>PowerShell</b>
   - [CreateLocalAdmins](https://github.com/K-ING-TECH/createLocalAdmins)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [PruneLocalAdmins)](https://github.com/K-ING-TECH/pruneLocalAdmins)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
