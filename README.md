@@ -9,8 +9,8 @@
 - <b>PowerShell</b>
   - [CreateLocalAdmins](https://github.com/K-ING-TECH/createLocalAdmins)
   - [PruneLocalAdmins)](https://github.com/K-ING-TECH/pruneLocalAdmins)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Active Directory Bulk User Creation](https://github.com/)
+  - [AzureAD Registration Cleaner](https://github.com/K-ING-TECH/AzureAD-Registration-Cleaner)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
