@@ -12,7 +12,7 @@
   - [Active Directory Bulk User Creation](https://github.com/)
   - [AzureAD Registration Cleaner](https://github.com/K-ING-TECH/AzureAD-Registration-Cleaner)
 - <b>Packet Analysis</b>
-  - [Lab 1)](https://github.com/)
+  - [Wireshark: Analyzing Packet Captures and Correlating Geolocation Data](https://github.com/K-ING-TECH/PCAP-Geolocation)
   - [Lab 2](https://github.com/)
   - [Lab 3](https://github.com/)
 - <b>SOC Lab</b>
