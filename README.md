@@ -25,6 +25,7 @@
 <h2>📺 YouTube Videos</h2>
 
 - [Active Directory Lab - Tutorial](https://youtu.be/DWixn3LNJgI?si=QLWgaq8hbEk9Zj8V)
+- [Wireshark Network Traffic Analysis: Detecting DDoS Scans and Mapping Threats to Geographic Locations](https://youtu.be/pHKvjYmuTzg)
 
 <h2> 🤳 Connect with me:</h2>
 
