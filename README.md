@@ -8,7 +8,7 @@
   - [Various Group Policy Labs and Explanations](https://github.com/K-ING-TECH/Active_Directory_GPO_Labs/blob/main/README.md) 
 - <b>PowerShell</b>
   - [CreateLocalAdmins](https://github.com/K-ING-TECH/createLocalAdmins)
-  - [PruneLocalAdmins)](https://github.com/K-ING-TECH/pruneLocalAdmins)
+  - [PruneLocalAdmins](https://github.com/K-ING-TECH/pruneLocalAdmins)
   - [Active Directory Bulk User Creation](https://github.com/)
   - [AzureAD Registration Cleaner](https://github.com/K-ING-TECH/AzureAD-Registration-Cleaner)
 - <b>Packet Analysis</b>
