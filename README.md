@@ -1,22 +1,40 @@
-<h1>Hi, I'm Kyle! <br/> <a href="https://www.linkedin.com/in/kyle-ingri-82592831a/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@K-ING-TECH/videos">YouTuber</a></h1>
+# <a href="https://www.linkedin.com/in/kyle-ingri-82592831a/">Kyle</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-- <b>Active Directory Lab Setup</b>
-  - [AD DS, DHCP, RAS/NAT Powershell](https://github.com/K-ING-TECH/Active_Directory_Lab)
-- <b>Active Directory GPO Labs</b>
-  - [Various Group Policy Labs and Explanations](https://github.com/K-ING-TECH/Active_Directory_GPO_Labs/blob/main/README.md) 
-- <b>PowerShell</b>
-  - [CreateLocalAdmins](https://github.com/K-ING-TECH/createLocalAdmins)
-  - [PruneLocalAdmins](https://github.com/K-ING-TECH/pruneLocalAdmins)
-  - [Active Directory Bulk User Creation](https://github.com/)
-  - [AzureAD Registration Cleaner](https://github.com/K-ING-TECH/AzureAD-Registration-Cleaner)
-- <b>Packet Analysis</b>
-  - [Wireshark: Analyzing Packet Captures and Correlating Geolocation Data](https://github.com/K-ING-TECH/PCAP-Geolocation)
-  - [Lab 2](https://github.com/)
-  - [Lab 3](https://github.com/)
-- <b>SOC Lab</b>
-  - [Lab 1)](https://github.com/)
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+## 🦈 Packet Analysis Project
+  - **[Wireshark: Analyzing Packet Captures and Correlating Geolocation Data](https://github.com/K-ING-TECH/PCAP-Geolocation)**
+
+    
+<hr/>
+
+
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+-->
+
+
+  ## 🖥️ Active Directory Lab
+  - **[AD DS, DHCP, RAS/NAT Powershell](https://github.com/K-ING-TECH/Active_Directory_Lab/blob/main/README.md)**
+
+  
+   ## 👨‍💻 Powershell
+  - **[CreateLocalAdmins](https://github.com/K-ING-TECH/createLocalAdmins)**
+  - **[PruneLocalAdmins](https://github.com/K-ING-TECH/pruneLocalAdmins)**
+  - **[Active Directory Bulk User Creation](https://github.com/)**
+  - **[AzureAD Registration Cleaner](https://github.com/K-ING-TECH/AzureAD-Registration-Cleaner)**
+
  
 <h2>📄 Certifications</h2>
 
