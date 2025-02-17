@@ -42,7 +42,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <h2>📺 YouTube Videos</h2>
 
-- [Active Directory Lab - Tutorial](https://youtu.be/DWixn3LNJgI?si=QLWgaq8hbEk9Zj8V)
+- [Threat Hunting Scenario: Brute Force Attempt]([https://youtu.be/DWixn3LNJgI?si=QLWgaq8hbEk9Zj8V](https://youtu.be/P7Uk324-vqI?si=t-lQZMfjiJWxNHRt))
 - [Wireshark Network Traffic Analysis: Detecting DDoS Scans and Mapping Threats to Geographic Locations](https://youtu.be/pHKvjYmuTzg)
 
 <h2> 🤳 Connect with me:</h2>
