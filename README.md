@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario (Network Degradation)](https://github.com/K-ING-TECH/Threat-Hunt_Network-Degradation)**
 - **[Threat Hunting Scenario (Insider Threat)](https://github.com/K-ING-TECH/Threat-Hunt_Insider-Threat)**
+- **[Threat Hunting Scenario (Publicly Facing Server)](https://github.com/K-ING-TECH/Threat-Hunt_Misconfigured-Server)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 ## 🦈 Packet Analysis Project
