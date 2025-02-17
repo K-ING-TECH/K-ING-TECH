@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
-- **[Threat Hunting Scenario (Insider Threat)]((https://github.com/K-ING-TECH/Threat-Hunt_Insider-Threat/tree/main)**
+- **[Threat Hunting Scenario (Insider Threat)](https://github.com/K-ING-TECH/Threat-Hunt_Insider-Threat/tree/main)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 ## 🦈 Packet Analysis Project
