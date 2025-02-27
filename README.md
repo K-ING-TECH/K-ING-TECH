@@ -7,6 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Incident Response (Invoke-WebRequest Alert)](https://github.com/K-ING-TECH/Incident-Response_Invoke-WebRequest)**
 
 ## 🚨 Threat Hunting and Security Operations
+- **[Threat Hunting Scenario (Tor Browser)](https://github.com/K-ING-TECH/Threat-Hunt_TOR-Browser)**
 - **[Threat Hunting Scenario (Network Degradation)](https://github.com/K-ING-TECH/Threat-Hunt_Network-Degradation)**
 - **[Threat Hunting Scenario (Insider Threat)](https://github.com/K-ING-TECH/Threat-Hunt_Insider-Threat)**
 - **[Threat Hunting Scenario (Publicly Facing Server)](https://github.com/K-ING-TECH/Threat-Hunt_Misconfigured-Server)**
