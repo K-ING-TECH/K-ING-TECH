@@ -5,6 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Incident Response
 - **[Incident Response (Impossible Travel)](https://github.com/K-ING-TECH/Incident-Response_Impossible-Travel)**
 - **[Incident Response (Powershell Alert)](https://github.com/K-ING-TECH/Incident-Response_Invoke-WebRequest)**
+- **[Incident Response (Credential Dumping)](https://github.com/K-ING-TECH/Incident-Response_Credential-Dumping)**
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario (Tor Browser)](https://github.com/K-ING-TECH/Threat-Hunt_TOR-Browser)**
