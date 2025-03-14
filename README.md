@@ -22,25 +22,16 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🦈 Packet Analysis Project
   - **[Wireshark: Analyzing Packet Captures and Correlating Geolocation Data](https://github.com/K-ING-TECH/PCAP-Geolocation)**
 
-    
-<hr/>
 
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+   ## 👨‍💻 Powershell
+  - **[Obfuscated_Code](https://github.com/K-ING-TECH/PowerShell-Obfuscated-Code)**
+  - **[CreateLocalAdmins](https://github.com/K-ING-TECH/createLocalAdmins)**
+  - **[PruneLocalAdmins](https://github.com/K-ING-TECH/pruneLocalAdmins)**
+  - **[AzureAD Registration Cleaner](https://github.com/K-ING-TECH/AzureAD-Registration-Cleaner)**
 
 
   ## 🖥️ Active Directory Lab
   - **[AD DS, DHCP, RAS/NAT Powershell](https://github.com/K-ING-TECH/Active_Directory_Lab/blob/main/README.md)**
-
-  
-   ## 👨‍💻 Powershell
-  - **[CreateLocalAdmins](https://github.com/K-ING-TECH/createLocalAdmins)**
-  - **[PruneLocalAdmins](https://github.com/K-ING-TECH/pruneLocalAdmins)**
-  - **[Active Directory Bulk User Creation](https://github.com/)**
-  - **[AzureAD Registration Cleaner](https://github.com/K-ING-TECH/AzureAD-Registration-Cleaner)**
 
  
 <h2>📄 Certifications</h2>
