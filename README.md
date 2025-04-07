@@ -4,6 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🌐 Network Forensics
 - **[DanaBot Malware Analysis](https://github.com/K-ING-TECH/Threat-Hunt_Malware-Analysis_Incident-Response)**
+- **[Lateral Movement via PsExec](https://github.com/K-ING-TECH/Incident-Report_Lateral-Movement_via-PsExec)**
 
 ## ⚔️🛡️ Attack / Defense Adversary Emulation
 - **[Adversary Emulation (Privilege Escalation & Persistance)](https://github.com/K-ING-TECH/Attack-Defense_Adversary-Emulation)**
