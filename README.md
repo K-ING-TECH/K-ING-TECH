@@ -2,6 +2,10 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please check them out and see the work I’ve put into enhancing security operations and processes!
 
+## Coding // AI Projects
+- **[Fake ChatGPT Browser Extension](https://github.com/K-ING-TECH/Malware-Analysis_FakeGPT-Chrome-Extension)**
+- **[DanaBot Malware Analysis](https://github.com/K-ING-TECH/Malware-Analysis_DanaBot)**
+
 ## 🐱‍💻 Malware Analysis
 - **[Fake ChatGPT Browser Extension](https://github.com/K-ING-TECH/Malware-Analysis_FakeGPT-Chrome-Extension)**
 - **[DanaBot Malware Analysis](https://github.com/K-ING-TECH/Malware-Analysis_DanaBot)**
