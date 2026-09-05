@@ -4,7 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🐱‍💻Coding // AI Projects
 - **[VectorBreak](https://github.com/K-ING-TECH/vectorbreak-master)**
-- **[DanaBot Malware Analysis](https://github.com/K-ING-TECH/Malware-Analysis_DanaBot)**
+- **[Log Report Fix](https://github.com/K-ING-TECH/Log-Report-Fix)**
 
 ## 🐱‍💻 Malware Analysis
 - **[Fake ChatGPT Browser Extension](https://github.com/K-ING-TECH/Malware-Analysis_FakeGPT-Chrome-Extension)**
